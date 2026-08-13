@@ -1,0 +1,65 @@
+.head
+{
+min-height:100px;
+background-color:rgb(124, 49, 49);
+}
+.subhead
+{
+    height:100px;
+    background-color:rgb(124, 49, 49);
+    border-right:.5px solid white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.slider1
+{
+    min-height:600px;
+}
+.slider2
+{
+    min-height:600px;
+    background-image:url(sycorianback.jpeg);
+}
+.slider3
+{
+    min-height:550px;
+    background-color:rgb(234, 242, 76, 0.4);
+    font-size:20px;
+    color:rgb(105, 5, 5);
+}
+.slider4
+{
+    min-height:400px;
+    background:white;
+}
+.slider5
+{
+    min-height:500px;
+    background-image:url(yellowbackground.jpeg);
+}
+.slider6
+{
+    min-height:550px;
+    background-color:rgb(116, 27, 5);
+}
+.form
+{
+    min-height:600px;
+    background-image:url(sycorianback.jpeg);
+    text-align:center;
+}
+.slider7
+{
+    min-height:50px;
+    background-image:url(sycorianback.jpeg);
+    text-align:center;
+}
+.footer
+{
+    min-height:400px;
+    background:brown;
+    color:white;
+    font-size:15px;
+    text-align:center;
+}
